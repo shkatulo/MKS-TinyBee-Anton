@@ -105,8 +105,8 @@
 #define HEATER_0_PIN                         145
 #ifndef MKS_TEST
 #define HEATER_1_PIN                         146
-#define FAN_PIN                              147
-#define FAN1_PIN                             148
+#define FAN_PIN                              148
+#define FAN1_PIN                             147
 #endif
 #define HEATER_BED_PIN                       144
 
